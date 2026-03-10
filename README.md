@@ -1,2 +1,2 @@
-# Examen_TP_nom_prenom
+# Examen_TP
 Ce projet est utilisé pour l'évaluation des compétences Git
